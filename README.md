@@ -1,2 +1,9 @@
-# Actividad-2.1.3-mis-perris-
+
 proyecto Mis perris para desarrollo web y movil
+
+guia de instalacion 
+
+#get-pip.py
+#pip install django
+#pip install django-multiselectfield
+
